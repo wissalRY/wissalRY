@@ -1,14 +1,14 @@
 
 
 <h1 align="center">Hi 👋, I'm Wissal RYAD</h1>
-<h3 align="center">A passionate Data Engineer and Analyst</h3>
+<h3 align="center">A passionate Data and AI Engineer </h3>
 <img align="right" alt="coding" src="https://media.licdn.com/dms/image/D5622AQHfpjL234EClw/feedshare-shrink_2048_1536/0/1693911767128?e=2147483647&v=beta&t=J2ZGomfV_OEzCK57MHHoGWAY8c8kmzalpvQ65tN8b40">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wissalry&label=Profile%20views&color=0e75b6&style=flat" alt="wissalry" /> </p>
 
-- 🔭 I’m currently working on **Data Engineer and Analysis project**
+- 🔭 I’m currently working on **Data Engineering and Analysis projects**
 
-- 🌱 I’m currently learning **Data Analysis tools**
+- 🌱 I’m currently learning **Data Engineering tools -Interested about AI tools**
 
 - 📫 How to reach me **wissalryad062@gmail.com**
 
